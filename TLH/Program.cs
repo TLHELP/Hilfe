@@ -1,13 +1,14 @@
 ﻿using System;
 
-namespace tktltle
+namespace TLH
 {
     class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("ARGHHH!dsadsa!!");
+            Console.ReadLine();
+            //what?!
         }
     }
 }
