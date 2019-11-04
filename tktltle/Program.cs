@@ -6,7 +6,7 @@ namespace tktltle
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello rld!");
+            Console.WriteLine("Hello rwld!");
         }
     }
 }
